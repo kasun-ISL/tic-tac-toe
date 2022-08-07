@@ -1,0 +1,12 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.box {
+  width: 150px;
+  height: 150px;
+
+  background-color: #ccc;
+}
